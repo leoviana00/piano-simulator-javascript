@@ -1,2 +1,4 @@
-# piano-simulator-javascript
+## piano-simulator-javascript
+
 Projeto: Simulador de piano
+
