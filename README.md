@@ -22,6 +22,6 @@
 - Tratamento de elementos HTML
 - Adicionar e remover classes dinamicamente
 - Toggle com classes
-- Event Listerners
+- Event Listeners
 - Estlização de componentes com CSS
 - Pseudo elementos (Before | After)
