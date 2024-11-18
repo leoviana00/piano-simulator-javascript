@@ -25,3 +25,11 @@
 - Event Listeners
 - Estlização de componentes com CSS
 - Pseudo elementos (Before | After)
+
+## Mudando o tema do piano
+
+- Mudando o tema do piano para sair sons de animais.
+
+<p align="center">
+  <img alt="Music" src="./src/images/piano-virtual-animal.png">
+</p>
