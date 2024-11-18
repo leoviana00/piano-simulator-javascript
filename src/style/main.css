@@ -100,13 +100,22 @@ header .column span {
     background: linear-gradient(#333, #000);
 }
 
-.piano-keys span {
+.piano-keys img {
+    position: absolute;
+    bottom: 20px;
+    left: .2rem;
+    width: 80%;
+    text-align: center;
+    font-size: 1.13rem;
+}
+
+/* .piano-keys span {
     position: absolute;
     bottom: 20px;
     width: 100%;
     text-align: center;
     font-size: 1.13rem;
-}
+} */
 
 .piano-keys .white.active {
     box-shadow: inset -5px -5px 20px rgba(0,0,0,0.2);
@@ -118,3 +127,10 @@ header .column span {
     background: linear-gradient(to bottom #000, #434343);
 }
 
+/* .piano-keys .key.hide span {
+    display: none;
+  } */
+
+  .piano-keys .key.hide img {
+    display: none;
+  }

@@ -15,3 +15,13 @@
 - Criando um Piano Virtual com `html`, `css` e `javascript`.
 
 - Projeto para praticar manipulação de html e css através do javascript.
+
+## Conceito e pratica 
+
+- Manipulação de DOM
+- Tratamento de elementos HTML
+- Adicionar e remover classes dinamicamente
+- Toggle com classes
+- Event Listerners
+- Estlização de componentes com CSS
+- Pseudo elementos (Before | After)
